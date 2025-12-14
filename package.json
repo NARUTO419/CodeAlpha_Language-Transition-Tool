@@ -1,0 +1,14 @@
+{
+  "name": "language-translation-tool",
+  "version": "1.0.0",
+  "description": "AI based Language Translation Tool using Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Suryansh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
